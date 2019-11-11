@@ -4,3 +4,5 @@ I wish them to be realized by me or you.
 
 An idea itself is not so valuable.
 There is great value in realizing an idea.
+
+https://github.com/nixiesquid/wishlist/issues
